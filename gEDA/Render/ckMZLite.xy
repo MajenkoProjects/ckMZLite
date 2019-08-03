@@ -1,0 +1,97 @@
+# PcbXY Version 1.0
+# Date: Mon 22 Jul 2019 15:03:28 GMT UTC
+# Author: Matt Jenkins
+# Title: (unknown) - PCB X-Y
+# RefDes, Description, Value, X, Y, rotation, top/bottom
+# X,Y in mm.  rotation in degrees.
+# --------------------------------------------
+CONN1,"2212S-08SG-85","8",44.45,81.28,270,top
+CONN2,"2212S-10SG-85","10",67.31,81.28,270,top
+CONN3,"2212S-10SG-85","10",92.71,81.28,270,top
+CONN4,"2212S-08SG-85","8",44.45,58.42,270,top
+CONN6,"2212S-10SG-85","10",67.31,58.42,270,top
+CONN7,"2212S-10SG-85","10",92.71,58.42,270,top
+SD1,"503182-1853","NA",39.19,69.82,90,top
+C8,"0402B104K6R3CT","100nF",76.15,62.95,90,top
+C9,"0402B104K6R3CT","100nF",50.15,69.85,270,top
+C7,"0402B104K6R3CT","100nF",77.05,69.35,0,top
+C5,"0402B104K6R3CT","100nF",70.35,62.85,270,top
+C4,"0402B104K6R3CT","100nF",67.35,62.85,270,top
+C2,"0402B104K6R3CT","100nF",68.35,77.00,90,top
+C1,"0402B104K6R3CT","100nF",70.85,77.00,90,top
+D2,"KPHD-1608LVCGCK","Green",58.40,69.85,270,top
+D1,"KPHD-1608LVSYCK","Yellow",56.00,69.85,270,top
+R1,"CRG0402J1K0","1k",54.20,69.85,270,top
+R2,"CRG0402J1K0","1k",60.15,69.85,270,top
+R3,"CRCW040210K0FKED","10K?",61.15,69.85,90,top
+R6,"MC0063W060311M","1M?",102.04,63.52,180,top
+CONN5,"47346-0001","Micro B",102.25,69.85,90,top
+C11,"MC1206X106K250CT","10µF",90.80,64.75,270,top
+C6,"0402B104K6R3CT","100nF",77.05,66.85,0,top
+C3,"0402B104K6R3CT","100nF",62.15,69.85,270,top
+(unknown),"(unknown)","(unknown)",104.14,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",101.60,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",99.06,79.36,-90,bottom
+(unknown),"(unknown)","(unknown)",96.52,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",93.98,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",91.44,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",88.90,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",86.36,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",83.82,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",81.28,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",78.74,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",76.20,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",73.66,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",71.12,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",68.58,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",66.04,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",63.50,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",60.96,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",58.42,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",55.88,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",53.34,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",50.80,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",48.26,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",45.72,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",43.18,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",40.64,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",38.10,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",35.56,79.37,-90,bottom
+(unknown),"(unknown)","(unknown)",104.14,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",101.60,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",99.06,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",96.52,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",91.44,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",88.90,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",86.36,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",83.82,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",81.28,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",78.74,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",76.20,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",73.66,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",71.12,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",68.58,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",66.04,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",63.50,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",60.96,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",58.42,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",55.88,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",53.34,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",50.80,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",48.26,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",45.72,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",43.18,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",40.64,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",38.10,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",35.56,60.32,-90,bottom
+(unknown),"(unknown)","(unknown)",93.98,60.32,-90,bottom
+U1,"PIC32MZ0512EFE064-I-MR","NA",69.85,69.85,0,top
+S2,"EVQP2002W","100gf",54.61,64.77,270,top
+S1,"EVQP2002W","100gf",54.61,74.93,270,top
+F1,"1206L050YR","500mA",94.95,67.35,0,top
+D4,"1N5819HW-7-F","1A",94.90,63.00,0,top
+D3,"1N5819HW-7-F","1A",94.90,64.95,0,top
+U3,"LD1117S33TR","3.3V",85.80,64.17,90,top
+U2,"SIT1602AC-23-33S-24.000000G","24MHz",78.90,62.95,180,top
+C10,"MC0805F106Z100CT","10uF",51.95,69.85,270,top
+C13,"MC0805F106Z100CT","10uF",90.15,69.65,180,top

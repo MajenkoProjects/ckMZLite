@@ -1,0 +1,27 @@
+name=chipkit-mz-lite-boot
+description=chipKIT MZ Lite (Bootloader)
+group=chipKIT
+
+platform=pic32
+board=_BOARD_CHIPKIT_MZ_LITE_
+board.define=
+ccflags=ffff
+
+upload.protocol=stk500v2
+upload.maximum_size=520192
+upload.speed=115200
+
+build.mcu=32MZ0512EFE064
+build.f_cpu=200000000UL
+build.core=chipkit
+core=chipkit
+ldcommon=chipKIT-application-COMMON-MZ-bootseg.ld
+ldscript=MZ-application-32MZ0512EFE-bootseg.ld
+
+family=pic32
+
+build.files=EFADC.c
+
+an1388.vid=04d8
+an1388.pid=0f5f
+

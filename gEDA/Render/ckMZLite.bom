@@ -1,0 +1,25 @@
+# PcbBOM Version 1.0
+# Date: Mon 22 Jul 2019 15:03:28 GMT UTC
+# Author: Matt Jenkins
+# Title: (unknown) - PCB BOM
+# Quantity, Description, Value, RefDes
+# --------------------------------------------
+2,"2212S-08SG-85","8",CONN1 CONN4 
+4,"2212S-10SG-85","10",CONN2 CONN3 CONN6 CONN7 
+1,"503182-1853","NA",SD1 
+9,"0402B104K6R3CT","100nF",C8 C9 C7 C5 C4 C2 C1 C6 C3 
+1,"KPHD-1608LVCGCK","Green",D2 
+1,"KPHD-1608LVSYCK","Yellow",D1 
+2,"CRG0402J1K0","1k",R1 R2 
+1,"CRCW040210K0FKED","10K?",R3 
+1,"MC0063W060311M","1M?",R6 
+1,"47346-0001","Micro B",CONN5 
+1,"MC1206X106K250CT","10µF",C11 
+59,"(unknown)","(unknown)",(unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) 
+1,"PIC32MZ0512EFE064-I-MR","NA",U1 
+2,"EVQP2002W","100gf",S2 S1 
+1,"1206L050YR","500mA",F1 
+2,"1N5819HW-7-F","1A",D4 D3 
+1,"LD1117S33TR","3.3V",U3 
+1,"SIT1602AC-23-33S-24.000000G","24MHz",U2 
+2,"MC0805F106Z100CT","10uF",C10 C13 

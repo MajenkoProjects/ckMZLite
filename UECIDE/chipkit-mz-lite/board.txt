@@ -1,0 +1,37 @@
+name=chipkit-mz-lite
+description=chipKIT MZ Lite
+group=chipKIT
+
+platform=pic32
+board=_BOARD_CHIPKIT_MZ_LITE_
+board.define=
+ccflags=ffff
+
+upload.protocol=an1388
+upload.maximum_size=520192
+upload.speed=115200
+
+build.mcu=32MZ0512EFE064
+build.f_cpu=200000000UL
+build.core=chipkit
+core=chipkit
+
+ldcommon=chipKIT-application-COMMON-MZ.ld
+ldscript=MZ-application-32MZ0512EFG.ld
+
+family=pic32
+
+build.files=EFADC.c
+
+an1388.vid=04d8
+an1388.pid=0f5f
+
+options.usb.a_cdcacm.flags=-D__USB_ENABLED__::-D__USB_CDCACM__::-D__SERIAL_IS_USB__
+options.usb.a_cdcacm.name=Serial
+options.usb.b_cdcacm_km.flags=-D__USB_ENABLED__::-D__USB_CDCACM_KM__::-D__SERIAL_IS_USB__
+options.usb.b_cdcacm_km.name=Serial, Keyboard & Mouse
+options.usb.default=a_cdcacm
+options.usb.name=USB
+options.usb.purge=true
+options.usb.z_custom.name=Custom
+
