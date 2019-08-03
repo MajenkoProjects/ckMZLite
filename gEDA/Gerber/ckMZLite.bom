@@ -4,8 +4,6 @@
 # Title: (unknown) - PCB BOM
 # Quantity, Description, Value, RefDes
 # --------------------------------------------
-2,"2212S-08SG-85","8",CONN1 CONN4 
-4,"2212S-10SG-85","10",CONN2 CONN3 CONN6 CONN7 
 1,"503182-1853","NA",SD1 
 9,"0402B104K6R3CT","100nF",C8 C9 C7 C5 C4 C2 C1 C6 C3 
 1,"KPHD-1608LVCGCK","Green",D2 
@@ -15,7 +13,6 @@
 1,"MC0063W060311M","1M?",R6 
 1,"47346-0001","Micro B",CONN5 
 1,"MC1206X106K250CT","10µF",C11 
-59,"(unknown)","(unknown)",(unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) 
 1,"PIC32MZ0512EFE064-I-MR","NA",U1 
 2,"EVQP2002W","100gf",S2 S1 
 1,"1206L050YR","500mA",F1 
