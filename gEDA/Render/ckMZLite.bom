@@ -1,5 +1,5 @@
 # PcbBOM Version 1.0
-# Date: Mon 22 Jul 2019 15:03:28 GMT UTC
+# Date: Sun 04 Aug 2019 21:18:56 GMT UTC
 # Author: Matt Jenkins
 # Title: (unknown) - PCB BOM
 # Quantity, Description, Value, RefDes
@@ -15,7 +15,7 @@
 1,"MC0063W060311M","1M?",R6 
 1,"47346-0001","Micro B",CONN5 
 1,"MC1206X106K250CT","10µF",C11 
-59,"(unknown)","(unknown)",(unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) 
+58,"(unknown)","(unknown)",(unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) (unknown) 
 1,"PIC32MZ0512EFE064-I-MR","NA",U1 
 2,"EVQP2002W","100gf",S2 S1 
 1,"1206L050YR","500mA",F1 
