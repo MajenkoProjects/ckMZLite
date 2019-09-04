@@ -162,7 +162,7 @@ MEMORY
     config_BFC6FFF8         : ORIGIN = 0xbfc6fff8, LENGTH = 0x00000004
     config_BFC6FFFC         : ORIGIN = 0xbfc6fffc, LENGTH = 0x00000004
     boot2lastpage           : ORIGIN = 0xbfc70000, LENGTH = 0x00004000
-    kseg0_data_mem  (w!x)   : ORIGIN = 0x80000000, LENGTH = 0x00080000
+    kseg0_data_mem  (w!x)   : ORIGIN = 0x80000000, LENGTH = 0x00020000
     sfrs                    : ORIGIN = 0xbf800000, LENGTH = 0x00100000
     configsfrs_BFC0FF40     : ORIGIN = 0xbfc0ff40, LENGTH = 0x00000040
     configsfrs_BFC0FFC0     : ORIGIN = 0xbfc0ffc0, LENGTH = 0x00000040

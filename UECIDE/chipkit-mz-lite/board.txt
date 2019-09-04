@@ -17,7 +17,7 @@ build.core=chipkit
 core=chipkit
 
 ldcommon=chipKIT-application-COMMON-MZ.ld
-ldscript=MZ-application-32MZ0512EFG.ld
+ldscript=MZ-application-32MZ0512EFE.ld
 
 family=pic32
 
